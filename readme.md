@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             1 hr 14 mins    ███████████████████████▓░   95.25 %
-GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Dart             1 hr 52 mins    ████████████████████████░   96.49 %
+GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
