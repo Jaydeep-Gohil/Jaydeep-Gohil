@@ -25,8 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       57 mins         █████████████████████████   99.41 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Dart       3 hrs 36 mins   ███████████████████████▒░   92.94 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
