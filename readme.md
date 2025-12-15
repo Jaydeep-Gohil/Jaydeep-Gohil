@@ -25,10 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             2 hrs 3 mins    █████████████████████░░░░   84.05 %
-Kotlin           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart             3 hrs 16 mins   ██████████████████████▒░░   89.30 %
+Kotlin           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
