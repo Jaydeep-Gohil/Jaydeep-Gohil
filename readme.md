@@ -25,8 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 mins               █████████████░░░░░░░░░░░░   52.06 %
-Dart         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   25 mins               ██████████░░░░░░░░░░░░░░░   39.83 %
+CSS          15 mins               ██████░░░░░░░░░░░░░░░░░░░   23.57 %
 ```
 
 <!--END_SECTION:waka-->
