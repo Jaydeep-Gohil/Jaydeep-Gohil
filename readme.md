@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   2 hrs 5 mins          █████████████████████████   99.80 %
-Git    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
