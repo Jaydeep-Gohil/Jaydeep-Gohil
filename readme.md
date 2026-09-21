@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   25 mins               ████████████████████▓░░░░   83.05 %
 ```
 
 <!--END_SECTION:waka-->
