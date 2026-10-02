@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 24 mins         █████████████████████████   99.61 %
+Dart   1 hr 45 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
